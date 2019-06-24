@@ -16,6 +16,7 @@ const pluginOptions = {
 	hotOptions: true,
 	preprocess: true,
 	emitCss: true,
+	onwarn: true,
 
 	// legacy
 	shared: true,
